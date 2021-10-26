@@ -1,0 +1,14 @@
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Estrutura repetitiva faça-enquanto\bin\Debug\netcoreapp3.1\Estrutura repetitiva faça-enquanto.exe
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Estrutura repetitiva faça-enquanto\bin\Debug\netcoreapp3.1\Estrutura repetitiva faça-enquanto.deps.json
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Estrutura repetitiva faça-enquanto\bin\Debug\netcoreapp3.1\Estrutura repetitiva faça-enquanto.runtimeconfig.json
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Estrutura repetitiva faça-enquanto\bin\Debug\netcoreapp3.1\Estrutura repetitiva faça-enquanto.runtimeconfig.dev.json
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Estrutura repetitiva faça-enquanto\bin\Debug\netcoreapp3.1\Estrutura repetitiva faça-enquanto.dll
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Estrutura repetitiva faça-enquanto\bin\Debug\netcoreapp3.1\Estrutura repetitiva faça-enquanto.pdb
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Estrutura repetitiva faça-enquanto\obj\Debug\netcoreapp3.1\Estrutura repetitiva faça-enquanto.csproj.AssemblyReference.cache
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Estrutura repetitiva faça-enquanto\obj\Debug\netcoreapp3.1\Estrutura repetitiva faça-enquanto.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Estrutura repetitiva faça-enquanto\obj\Debug\netcoreapp3.1\Estrutura repetitiva faça-enquanto.AssemblyInfoInputs.cache
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Estrutura repetitiva faça-enquanto\obj\Debug\netcoreapp3.1\Estrutura repetitiva faça-enquanto.AssemblyInfo.cs
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Estrutura repetitiva faça-enquanto\obj\Debug\netcoreapp3.1\Estrutura repetitiva faça-enquanto.csproj.CoreCompileInputs.cache
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Estrutura repetitiva faça-enquanto\obj\Debug\netcoreapp3.1\Estrutura repetitiva faça-enquanto.dll
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Estrutura repetitiva faça-enquanto\obj\Debug\netcoreapp3.1\Estrutura repetitiva faça-enquanto.pdb
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Estrutura repetitiva faça-enquanto\obj\Debug\netcoreapp3.1\Estrutura repetitiva faça-enquanto.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\VS 2019\Primeiro projeto\Vetores\Vetores Ex Aula 1\exercicio proposto 6\bin\Debug\netcoreapp3.1\exercicio proposto 6.exe
+C:\VS 2019\Primeiro projeto\Vetores\Vetores Ex Aula 1\exercicio proposto 6\bin\Debug\netcoreapp3.1\exercicio proposto 6.deps.json
+C:\VS 2019\Primeiro projeto\Vetores\Vetores Ex Aula 1\exercicio proposto 6\bin\Debug\netcoreapp3.1\exercicio proposto 6.runtimeconfig.json
+C:\VS 2019\Primeiro projeto\Vetores\Vetores Ex Aula 1\exercicio proposto 6\bin\Debug\netcoreapp3.1\exercicio proposto 6.runtimeconfig.dev.json
+C:\VS 2019\Primeiro projeto\Vetores\Vetores Ex Aula 1\exercicio proposto 6\bin\Debug\netcoreapp3.1\exercicio proposto 6.dll
+C:\VS 2019\Primeiro projeto\Vetores\Vetores Ex Aula 1\exercicio proposto 6\bin\Debug\netcoreapp3.1\exercicio proposto 6.pdb
+C:\VS 2019\Primeiro projeto\Vetores\Vetores Ex Aula 1\exercicio proposto 6\obj\Debug\netcoreapp3.1\exercicio proposto 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS 2019\Primeiro projeto\Vetores\Vetores Ex Aula 1\exercicio proposto 6\obj\Debug\netcoreapp3.1\exercicio proposto 6.AssemblyInfoInputs.cache
+C:\VS 2019\Primeiro projeto\Vetores\Vetores Ex Aula 1\exercicio proposto 6\obj\Debug\netcoreapp3.1\exercicio proposto 6.AssemblyInfo.cs
+C:\VS 2019\Primeiro projeto\Vetores\Vetores Ex Aula 1\exercicio proposto 6\obj\Debug\netcoreapp3.1\exercicio proposto 6.csproj.CoreCompileInputs.cache
+C:\VS 2019\Primeiro projeto\Vetores\Vetores Ex Aula 1\exercicio proposto 6\obj\Debug\netcoreapp3.1\exercicio proposto 6.dll
+C:\VS 2019\Primeiro projeto\Vetores\Vetores Ex Aula 1\exercicio proposto 6\obj\Debug\netcoreapp3.1\exercicio proposto 6.pdb
+C:\VS 2019\Primeiro projeto\Vetores\Vetores Ex Aula 1\exercicio proposto 6\obj\Debug\netcoreapp3.1\exercicio proposto 6.genruntimeconfig.cache

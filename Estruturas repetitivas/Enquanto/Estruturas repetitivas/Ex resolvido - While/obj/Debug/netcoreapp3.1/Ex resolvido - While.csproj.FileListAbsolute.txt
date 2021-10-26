@@ -1,0 +1,14 @@
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Ex resolvido - While\bin\Debug\netcoreapp3.1\Ex resolvido - While.exe
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Ex resolvido - While\bin\Debug\netcoreapp3.1\Ex resolvido - While.deps.json
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Ex resolvido - While\bin\Debug\netcoreapp3.1\Ex resolvido - While.runtimeconfig.json
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Ex resolvido - While\bin\Debug\netcoreapp3.1\Ex resolvido - While.runtimeconfig.dev.json
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Ex resolvido - While\bin\Debug\netcoreapp3.1\Ex resolvido - While.dll
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Ex resolvido - While\bin\Debug\netcoreapp3.1\Ex resolvido - While.pdb
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Ex resolvido - While\obj\Debug\netcoreapp3.1\Ex resolvido - While.csproj.AssemblyReference.cache
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Ex resolvido - While\obj\Debug\netcoreapp3.1\Ex resolvido - While.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Ex resolvido - While\obj\Debug\netcoreapp3.1\Ex resolvido - While.AssemblyInfoInputs.cache
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Ex resolvido - While\obj\Debug\netcoreapp3.1\Ex resolvido - While.AssemblyInfo.cs
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Ex resolvido - While\obj\Debug\netcoreapp3.1\Ex resolvido - While.csproj.CoreCompileInputs.cache
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Ex resolvido - While\obj\Debug\netcoreapp3.1\Ex resolvido - While.dll
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Ex resolvido - While\obj\Debug\netcoreapp3.1\Ex resolvido - While.pdb
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Ex resolvido - While\obj\Debug\netcoreapp3.1\Ex resolvido - While.genruntimeconfig.cache

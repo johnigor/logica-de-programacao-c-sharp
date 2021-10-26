@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ex processamento de dados/1.0.0": {
+        "runtime": {
+          "ex processamento de dados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ex processamento de dados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

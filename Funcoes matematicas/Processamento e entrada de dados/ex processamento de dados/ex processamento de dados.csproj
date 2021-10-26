@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>ex_processamento_de_dados</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Entrada de dados\**" />
+    <EmbeddedResource Remove="Entrada de dados\**" />
+    <None Remove="Entrada de dados\**" />
+  </ItemGroup>
+
+</Project>

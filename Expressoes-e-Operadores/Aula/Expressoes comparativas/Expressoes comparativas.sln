@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expressoes comparativas", "Expressoes comparativas\Expressoes comparativas.csproj", "{8F2481F1-A44C-4C20-9CC1-EF3FE530AE92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula 2 teste", "Aula 2 teste\Aula 2 teste.csproj", "{DB152FE9-2BC7-460F-9C31-DF0201910294}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F2481F1-A44C-4C20-9CC1-EF3FE530AE92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F2481F1-A44C-4C20-9CC1-EF3FE530AE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F2481F1-A44C-4C20-9CC1-EF3FE530AE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F2481F1-A44C-4C20-9CC1-EF3FE530AE92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB152FE9-2BC7-460F-9C31-DF0201910294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB152FE9-2BC7-460F-9C31-DF0201910294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB152FE9-2BC7-460F-9C31-DF0201910294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB152FE9-2BC7-460F-9C31-DF0201910294}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FFABB72-18F4-465B-931A-FADE9B3B4E3B}
+	EndGlobalSection
+EndGlobal

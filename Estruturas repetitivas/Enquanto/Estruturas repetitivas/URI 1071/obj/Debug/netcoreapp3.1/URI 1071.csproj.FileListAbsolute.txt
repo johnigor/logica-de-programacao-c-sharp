@@ -1,0 +1,13 @@
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\URI 1071\bin\Debug\netcoreapp3.1\URI 1071.exe
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\URI 1071\bin\Debug\netcoreapp3.1\URI 1071.deps.json
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\URI 1071\bin\Debug\netcoreapp3.1\URI 1071.runtimeconfig.json
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\URI 1071\bin\Debug\netcoreapp3.1\URI 1071.runtimeconfig.dev.json
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\URI 1071\bin\Debug\netcoreapp3.1\URI 1071.dll
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\URI 1071\bin\Debug\netcoreapp3.1\URI 1071.pdb
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\URI 1071\obj\Debug\netcoreapp3.1\URI 1071.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\URI 1071\obj\Debug\netcoreapp3.1\URI 1071.AssemblyInfoInputs.cache
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\URI 1071\obj\Debug\netcoreapp3.1\URI 1071.AssemblyInfo.cs
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\URI 1071\obj\Debug\netcoreapp3.1\URI 1071.csproj.CoreCompileInputs.cache
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\URI 1071\obj\Debug\netcoreapp3.1\URI 1071.dll
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\URI 1071\obj\Debug\netcoreapp3.1\URI 1071.pdb
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\URI 1071\obj\Debug\netcoreapp3.1\URI 1071.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Estrutura Para\bin\Debug\netcoreapp3.1\Estrutura Para.exe
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Estrutura Para\bin\Debug\netcoreapp3.1\Estrutura Para.deps.json
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Estrutura Para\bin\Debug\netcoreapp3.1\Estrutura Para.runtimeconfig.json
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Estrutura Para\bin\Debug\netcoreapp3.1\Estrutura Para.runtimeconfig.dev.json
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Estrutura Para\bin\Debug\netcoreapp3.1\Estrutura Para.dll
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Estrutura Para\bin\Debug\netcoreapp3.1\Estrutura Para.pdb
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Estrutura Para\obj\Debug\netcoreapp3.1\Estrutura Para.csproj.AssemblyReference.cache
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Estrutura Para\obj\Debug\netcoreapp3.1\Estrutura Para.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Estrutura Para\obj\Debug\netcoreapp3.1\Estrutura Para.AssemblyInfoInputs.cache
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Estrutura Para\obj\Debug\netcoreapp3.1\Estrutura Para.AssemblyInfo.cs
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Estrutura Para\obj\Debug\netcoreapp3.1\Estrutura Para.csproj.CoreCompileInputs.cache
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Estrutura Para\obj\Debug\netcoreapp3.1\Estrutura Para.dll
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Estrutura Para\obj\Debug\netcoreapp3.1\Estrutura Para.pdb
+C:\VS 2019\Primeiro projeto\Estruturas repetitivas\Enquanto\Estruturas repetitivas\Estrutura Para\obj\Debug\netcoreapp3.1\Estrutura Para.genruntimeconfig.cache

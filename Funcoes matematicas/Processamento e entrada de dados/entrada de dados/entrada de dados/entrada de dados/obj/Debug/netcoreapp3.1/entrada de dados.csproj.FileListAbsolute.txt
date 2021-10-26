@@ -1,0 +1,14 @@
+C:\VS 2019\Primeiro projeto\Ex processamento de dados\Processamento e entrada de dados\entrada de dados\entrada de dados\entrada de dados\bin\Debug\netcoreapp3.1\entrada de dados.exe
+C:\VS 2019\Primeiro projeto\Ex processamento de dados\Processamento e entrada de dados\entrada de dados\entrada de dados\entrada de dados\bin\Debug\netcoreapp3.1\entrada de dados.deps.json
+C:\VS 2019\Primeiro projeto\Ex processamento de dados\Processamento e entrada de dados\entrada de dados\entrada de dados\entrada de dados\bin\Debug\netcoreapp3.1\entrada de dados.runtimeconfig.json
+C:\VS 2019\Primeiro projeto\Ex processamento de dados\Processamento e entrada de dados\entrada de dados\entrada de dados\entrada de dados\bin\Debug\netcoreapp3.1\entrada de dados.runtimeconfig.dev.json
+C:\VS 2019\Primeiro projeto\Ex processamento de dados\Processamento e entrada de dados\entrada de dados\entrada de dados\entrada de dados\bin\Debug\netcoreapp3.1\entrada de dados.dll
+C:\VS 2019\Primeiro projeto\Ex processamento de dados\Processamento e entrada de dados\entrada de dados\entrada de dados\entrada de dados\bin\Debug\netcoreapp3.1\entrada de dados.pdb
+C:\VS 2019\Primeiro projeto\Ex processamento de dados\Processamento e entrada de dados\entrada de dados\entrada de dados\entrada de dados\obj\Debug\netcoreapp3.1\entrada de dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS 2019\Primeiro projeto\Ex processamento de dados\Processamento e entrada de dados\entrada de dados\entrada de dados\entrada de dados\obj\Debug\netcoreapp3.1\entrada de dados.AssemblyInfoInputs.cache
+C:\VS 2019\Primeiro projeto\Ex processamento de dados\Processamento e entrada de dados\entrada de dados\entrada de dados\entrada de dados\obj\Debug\netcoreapp3.1\entrada de dados.AssemblyInfo.cs
+C:\VS 2019\Primeiro projeto\Ex processamento de dados\Processamento e entrada de dados\entrada de dados\entrada de dados\entrada de dados\obj\Debug\netcoreapp3.1\entrada de dados.csproj.CoreCompileInputs.cache
+C:\VS 2019\Primeiro projeto\Ex processamento de dados\Processamento e entrada de dados\entrada de dados\entrada de dados\entrada de dados\obj\Debug\netcoreapp3.1\entrada de dados.dll
+C:\VS 2019\Primeiro projeto\Ex processamento de dados\Processamento e entrada de dados\entrada de dados\entrada de dados\entrada de dados\obj\Debug\netcoreapp3.1\entrada de dados.pdb
+C:\VS 2019\Primeiro projeto\Ex processamento de dados\Processamento e entrada de dados\entrada de dados\entrada de dados\entrada de dados\obj\Debug\netcoreapp3.1\entrada de dados.genruntimeconfig.cache
+C:\VS 2019\Primeiro projeto\Ex processamento de dados\Processamento e entrada de dados\entrada de dados\entrada de dados\entrada de dados\obj\Debug\netcoreapp3.1\entrada de dados.csproj.AssemblyReference.cache
