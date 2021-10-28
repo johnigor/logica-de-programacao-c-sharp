@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace a
+namespace Ex_proposto_4
 {
     class Program
     {
@@ -12,24 +12,18 @@ namespace a
 
             for (int i = 0; i < N; i++) {
                 string[] s = Console.ReadLine().Split(' ');
-                for (int j = 0; j < N; i++) {
+                for (int j = 0; j < N; j++) {
                     matriz[i, j] = int.Parse(s[j]);
                 }
             }
 
-            Console.WriteLine("DIAGONAL PRINCIPAL:");
+            int soma = 0;
             for (int i = 0; i < N; i++) {
-                Console.Write(matriz[i,i] + " ");
+                for (int j = i + 1; j < N; j++) {
+                    soma = soma + matriz[i, j];
+                }                                
             }
-
-            int cont = 0;
-            for (int i = 0; i < N; i++) { 
-                for (int j = 0; j < N; j++) {
-                    if (matriz[i, j] < 0) {
-                        cont++;
-                    }
-                }
-            }
+            Console.WriteLine(soma);
         }
     }
 }

@@ -21,15 +21,19 @@ namespace Exercicio_resolvido_2
                     matriz[i, j] = int.Parse(valores[j]);
                 }
             }
+
+            int[] vet = new int[M];
                         
             for (int i = 0; i < M; i++) {
                 int x = 0;
                 for (int j = 0; j < N; j++) {
-                    x = x + matriz[i, j];
+                    x = x + matriz[i, j];                    
                 }
-                Console.WriteLine(x);
+                vet[i] = x;
             }
-            
+             for (int i = 0; i < M; i++) {
+                Console.WriteLine(vet[i]);
+            }
         }
     }
 }
