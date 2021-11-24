@@ -1,30 +1,34 @@
 ﻿using System;
+using System.Globalization;
 
-namespace Rascunhos
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            int n1 = 3 + 4 * 2;
-            int n2 = (3 + 4) * 2;
-            int n3 = 17 % 3;
-            double n4 = 10.0 / 8.0;
+namespace Rascunhos {
+    class Program {
+        static void Main(string[] args) {
+            //exercicio proposto de entrada de dados
+
+            /*
+            Console.WriteLine("Emtre com seu nome completo: ");
+            string nome = Console.ReadLine();
             
-            double a = 1.0, b = -3.0, c = -4.0;
+            Console.WriteLine("Quantos quartos tem na sua casa? ");
+            int quartos = int.Parse(Console.ReadLine());
 
-            double delta = Math.Pow(b, 2.0) - 4.0 * a * c;
+            Console.WriteLine("Entre com o preço de um produto: ");
+            double precoProduto = double.Parse(Console.ReadLine());
 
-            double x1 = (-b + Math.Sqrt(delta)) / (2.0 * a);
-            double x2 = (-b - Math.Sqrt(delta)) / (2.0 * a);
+            Console.WriteLine("Entre seu último nome, idade e altura (mesma linha): ");
+            string[] vet = Console.ReadLine().Split(' ');
+            string ultimoNome = vet[0];
+            int idade = int.Parse(vet[1]);
+            double altura = double.Parse(vet[2]);
 
-            Console.WriteLine(n1);
-            Console.WriteLine(n2);
-            Console.WriteLine(n3);
-            Console.WriteLine(n4);
-            Console.WriteLine(delta);
-            Console.WriteLine(x1);
-            Console.WriteLine(x2);
+            Console.WriteLine(nome);
+            Console.WriteLine(quartos);
+            Console.WriteLine(precoProduto.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine(ultimoNome);
+            Console.WriteLine(idade);
+            Console.WriteLine(altura.ToString("F2", CultureInfo.InvariantCulture));
+            */
 
         }
     }
